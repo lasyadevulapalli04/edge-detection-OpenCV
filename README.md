@@ -6,5 +6,5 @@ This project detects edges in an image using the Canny edge detection algorithm.
 - OpenCV
 
 ## How to Run
-pip install opencv-python
-python edge_detection.py
+- pip install opencv-python
+- python edge_detection.py
